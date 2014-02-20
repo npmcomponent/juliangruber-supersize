@@ -1,0 +1,10 @@
+{
+  "name": "juliangruber-supersize",
+  "description": "make text as big as possible in the parent element",
+  "version": "0.0.3",
+  "keywords": [],
+  "dependencies": {
+    "component-css": "git://github.com/npmcomponent/component-css.git"
+  },
+  "license": "MIT"
+}

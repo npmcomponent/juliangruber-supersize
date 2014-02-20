@@ -1,4 +1,4 @@
-var css = require('css');
+var css = require('component-css');
 
 module.exports = supersize;
 
